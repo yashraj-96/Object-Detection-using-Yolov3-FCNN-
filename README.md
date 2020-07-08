@@ -4,7 +4,7 @@ Yolov3 is a Fully Convolutional Neural Network which facilitates faster object d
 # Running a custom GPU environment
 
 In Computer Vision , computational requirements are high. If Yolov3 is said to be computing faster , that definitely requires a high processing hardware to function at its best.
-There are two (.yml) files above that correspond to GPU and CPU respectively. These files are used to create a environment in Anaconda , wherein , we have a seperate environment dedicated to GPU , that is the detection will carry out on GPU processing , whereas , if a system doesn't have it, it can run in CPU environment.
+There are two (.yml) files above that correspond to GPU and CPU respectively. These files are used to create a dedicated environment , wherein , we have a seperate environment dedicated to GPU , that is the detection will carry out on GPU processing , whereas , if a system doesn't have it, it can run in an CPU environment.
 
 These environments can be activated in Anaconda prompt.
 
